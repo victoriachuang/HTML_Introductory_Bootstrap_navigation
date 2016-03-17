@@ -9,5 +9,5 @@ Let's start with setting up the `nav` element.
 ```html
 <nav class="navbar navbar-default navbar-left">
 
-</nav
-```html
+</nav>
+```
